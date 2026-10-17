@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "tareade-algoritmo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
